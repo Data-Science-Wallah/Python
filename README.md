@@ -1,6 +1,6 @@
 # Python Tutorials Repository
 
-Welcome to my Python Tutorials repository! 🚀 This collection of Jupyter Notebooks covers a wide range of Python topics, from the absolute basics to advanced concepts, all explained in Hindi. Each tutorial is accompanied by a detailed video on my [YouTube channel](https://www.youtube.com/c/YourYouTubeChannel).
+Welcome to my Python Tutorials repository! 🚀 This collection of Jupyter Notebooks covers a wide range of Python topics, from the absolute basics to advanced concepts, all explained in Hindi. Each tutorial is accompanied by a detailed video on my [YouTube channel](https://www.youtube.com/@DataScienceWallah).
 
 ## Tutorials Overview:
 
