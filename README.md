@@ -1,6 +1,6 @@
 # Python Tutorials Repository
 
-Welcome to my Python Tutorials repository! 🚀 This collection of Jupyter Notebooks covers a wide range of Python topics, from the absolute basics to advanced concepts, all explained in Hindi. Each tutorial is accompanied by a detailed video on my [YouTube channel](https://www.youtube.com/@DataScienceWallah).
+Welcome to my Python Tutorials repository! 🚀 This collection of Jupyter Notebooks covers a wide range of Python topics, from the absolute basics to advanced concepts, all explained in Hindi. Each tutorial is accompanied by a detailed video on my [YouTube channel](https://www.youtube.com/c/DataScienceWallah).
 
 ## Tutorials Overview:
 
@@ -53,7 +53,10 @@ Welcome to my Python Tutorials repository! 🚀 This collection of Jupyter Noteb
 - 📺 [Watch Tutorial](https://youtu.be/DWYItd0Wb6M?si=cKdSu9iFXTJCjwqc)
 - 📚 Explore the world of data types: Categorical and Numerical data explained in Hindi.
 
-
+### 11. **Python Lists And List Functions**
+- **File:** Python_List.ipynb
+- 📝 Explore Python Lists and List Functions.
+- 🎬 [Watch Tutorial](https://youtu.be/JzOwVPOpgLA)
+- 🚀 Enhance your Python skills with practical list operations.
 
 Feel free to explore, learn, and contribute! If you find these tutorials helpful, don't forget to ⭐️ the repository and subscribe to my YouTube channel for more exciting tutorials! 🚀🌟
-🎬🎬🎬🎬🎬🎬🎬🎬🎬  [Youtube Channel]([https://www.youtube.com/@DataScienceWallah])🎬🎬🎬🎬🎬🎬🎬🎬🎬🎬
